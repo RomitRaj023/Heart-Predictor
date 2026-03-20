@@ -1,7 +1,5 @@
-﻿# Streamlit web app requirements
-
-streamlit==1.26.0        # Web app framework
-pandas==2.3.3            # Data handling
-numpy>=1.19.3,<2            # Numerical computations
-scikit-learn==1.3.0      # For machine learning models
-plotly==5.20.0            # For interactive charts
+streamlit==1.26.0
+pandas==2.3.3
+numpy>=1.19.3,<2
+scikit-learn==1.2.2
+Pillow>=9.4.0,<10
